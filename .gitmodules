@@ -1,0 +1,9 @@
+[submodule "lib/fmt"]
+	path = lib/fmt
+	url = https://github.com/fmtlib/fmt
+[submodule "lib/nameof"]
+	path = lib/nameof
+	url = https://github.com/Neargye/nameof
+[submodule "test/glm"]
+	path = test/glm
+	url = https://github.com/g-truc/glm
