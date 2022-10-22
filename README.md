@@ -7,7 +7,7 @@
 ### WARNING: this is ALPHA software. the code is highly unstable hot garbage. use at your own risk!
 
 ## Features
-* `template`s **are** supported - though only those which are naturally instantiated (ised) by the program itself
+* `template`s **are** supported - though only those which are naturally instantiated (used) by the program itself
 * Reflected `class`/`struct` types have:
 	* `template` parameter names, types, and values
 	* `typedef` and `using` values (i.e. `struct Foo { using F = int; /* ... */}`)
