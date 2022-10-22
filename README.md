@@ -1,7 +1,7 @@
 # archimedes - C++ reflection via code generation
 
 <p align="center">
-<img src="https://github.com/jdah/archimedes/raw/master/images/0.png" width=60% height=60%>
+<img src="https://github.com/jdah/archimedes/raw/master/images/icon.png" width=25% height=25%>
 </p>
 
 ### WARNING: this is ALPHA software. the code is highly unstable hot garbage. use at your own risk!
