@@ -41,9 +41,9 @@ STATIC = $(BIN)/libarchimedes.a
 TEST_DIR = test
 
 TEST_SRC 			= $(shell find $(TEST_DIR) -name "*.test.cpp")
-TEST_DEP 			= $(TEST_SRC:.cpp     =.d)
-TEST_OBJ 			= $(TEST_SRC:.cpp     =.o)
-TEST_TYPES_OBJ 		        = $(TEST_SRC:.cpp     =.types.o)
+TEST_DEP 			= $(TEST_SRC:.cpp=.d)
+TEST_OBJ 			= $(TEST_SRC:.cpp=.o)
+TEST_TYPES_OBJ 		        = $(TEST_SRC:.cpp=.types.o)
 TEST_OUT 			= $(TEST_SRC:.test.cpp=)
 TEST_OUT_NAMES 		        = $(notdir $(TEST_OUT))
 
