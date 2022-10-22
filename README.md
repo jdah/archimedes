@@ -30,7 +30,7 @@
 ## Example
 The shortest demo which covers the most features (see `test/example.test.{cpp, hpp}`)
 
-#### TODO
+#### TODO (just look through the tests for now!)
 
 ## How does it work?
 archimedes works via a clang plugin which runs on already compiled/template-instantiated ASTs.
